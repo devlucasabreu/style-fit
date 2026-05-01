@@ -29,5 +29,5 @@ Por se tratar de um projeto estático, a execução é extremamente simples e n�
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone [https://github.com/devlucasabreu/style-fit](https://github.com/devlucasabreu/style-fit)
+   git clone https://github.com/devlucasabreu/style-fit
    ```
